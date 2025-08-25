@@ -35,7 +35,7 @@ Stay up to date with our latest products, promotions, and news by following us o
 								<li><a href="#">Support</a></li>
 								<li><a href="#">24 Service</a></li>
 								<li><a href="#">Live chat</a></li>
-								<li><a href="#">git test</a></li>
+								<li><a href="#">git tests</a></li>
 							</ul>
 						</div>
 
